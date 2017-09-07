@@ -7,3 +7,5 @@ Linea 6
 .
 .
 .
+Contenido para mostrar rebase interactive
+Mas contenido para otro commit en rebase interactive
