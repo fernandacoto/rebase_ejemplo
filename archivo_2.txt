@@ -7,5 +7,3 @@ Linea 6
 .
 .
 .
-.
-Linea 11
